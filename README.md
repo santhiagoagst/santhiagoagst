@@ -1,50 +1,39 @@
-# ◈ SYSTEM ONLINE — SANTHIAGO.EXE
+# ◈ SANTHIAGO AUGUSTO | DEVELOPER IN PROGRESS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:164E63,100:7C3AED&text=SANTHIAGO%20LIMA&fontColor=E0F2FE&fontSize=48&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20BUILDING%20THE%20FUTURE&descSize=13&descAlignY=58&animation=fadeIn&stroke=22D3EE&strokeWidth=1" width="100%" alt="Banner futurista Santhiago Lima" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F3B65,100:164E63&text=SANTHIAGO%20AUGUSTO&fontColor=E0F7FF&fontSize=48&fontAlignY=38&desc=DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=14&descAlignY=58&animation=fadeIn&stroke=22D3EE&strokeWidth=1" width="100%" alt="Santhiago Augusto"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=55&lines=%3E+Initializing+developer+system...;%3E+System+online.+Welcome+to+my+profile.;%3E+ADS+Student+%7C+Future+Software+Developer;%3E+Learning.+Building.+Evolving.;%3E+The+future+is+written+in+code." alt="Animação de texto de inicialização" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=ADS+Student+%7C+Developer+in+Progress;Building+real+projects+with+Python;Learning.+Developing.+Evolving." alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-22D3EE?style=for-the-badge&logo=probot&logoColor=020617" alt="System online" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Learning" />
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-164E63?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=santhiagoagst&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS"/>
 
-**`[ HUMAN INTERFACE ]` · `[ DEVELOPER MODE ]` · `[ FUTURE LOADING ]`**
+**Transformando ideias em soluções através da tecnologia.**
 
 </div>
 
 ---
 
-## `01 // SOBRE MIM`
+## `01 // ABOUT ME`
 
-```text
-╔══════════════════════════════════════════════╗
-║          J.A.R.V.I.S. INTERFACE              ║
-╠══════════════════════════════════════════════╣
-║  USER       : Santhiago Lima                 ║
-║  ROLE       : ADS Student / Dev in Progress  ║
-║  LOCATION   : Recife, Pernambuco, Brazil     ║
-║  OBJECTIVE  : Become a Software Developer    ║
-║  STATUS     : Continuously Evolving          ║
-╚══════════════════════════════════════════════╝
-```
+Olá! Eu sou **Santhiago Augusto**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação.
 
-Olá! Sou **Santhiago**, estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pelo universo da programação.
+Tenho interesse em tecnologia, desenvolvimento de software e automação. Gosto de aprender na prática, explorar novas ferramentas e transformar ideias em projetos que resolvam problemas reais.
 
-Estou construindo minha jornada no desenvolvimento de software, explorando linguagens, criando projetos e transformando conhecimento em soluções práticas.
+Atualmente, estou aprofundando meus conhecimentos em Python, desenvolvimento web e bancos de dados, enquanto desenvolvo projetos próprios.
 
-Meu objetivo é evoluir constantemente, desenvolver minhas habilidades técnicas e construir aplicações que unam **funcionalidade, criatividade e inovação**.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvendo projetos com Python.
+- 🌐 Aprendendo desenvolvimento web.
+- 🗄️ Estudando bancos de dados e SQL.
+- ⚙️ Explorando automação e soluções tecnológicas.
+- 🚀 Focado em evolução profissional e projetos práticos.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
-- 💻 Aprendendo programação e desenvolvimento web.
-- ⚡ Explorando JavaScript, Python, HTML e CSS.
-- 🧠 Desenvolvendo lógica de programação e resolução de problemas.
-- 🚀 Focado em projetos práticos e evolução profissional.
-
-> `// Every expert was once a beginner.`
+> "Every expert was once a beginner."
 
 ---
 
@@ -52,171 +41,117 @@ Meu objetivo é evoluir constantemente, desenvolver minhas habilidades técnicas
 
 <div align="center">
 
-### `LANGUAGES & WEB`
+### LANGUAGES & DEVELOPMENT
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="52" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="52" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="52" alt="JavaScript"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"/></a>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript" alt="Python, HTML, CSS e JavaScript"/>
 
-### `TOOLS & ENVIRONMENT`
+### DATABASES
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/></a>
-<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></a>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="SQLite e MySQL"/>
 
-</div>
+### TOOLS & ENVIRONMENT
 
-> **Current level:** em formação. Estou aprofundando meus conhecimentos e ampliando meu domínio dessas tecnologias conforme avanço nos estudos e projetos.
-
----
-
-## `03 // DEV ENVIRONMENT`
-
-<div align="center">
-
-| TOOL | PURPOSE |
-|:---|:---|
-| <img src="https://skillicons.dev/icons?i=vscode" width="22" alt="VS Code"/> **Visual Studio Code** | Escrita e edição de código |
-| <img src="https://skillicons.dev/icons?i=git" width="22" alt="Git"/> **Git** | Versionamento de projetos |
-| <img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub"/> **GitHub** | Portfólio e colaboração |
-| <img src="https://skillicons.dev/icons?i=figma" width="22" alt="Figma"/> **Figma** | Exploração de UI/UX Design |
-| <img src="https://skillicons.dev/icons?i=mysql" width="22" alt="MySQL"/> **MySQL** | Estudos de bancos de dados |
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code e Figma"/>
 
 </div>
 
 ---
 
-## `04 // PROJECT DATABASE`
+## `03 // FEATURED PROJECT`
 
 <div align="center">
 
-> `ACCESSING REPOSITORY DATABASE...`
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/01-CONNECTACONDO-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="ConectaCondo"/>
-</a>
-
-**ConectaCondo — UI/UX Design**
-
-Exploração de uma solução digital voltada à comunicação e à organização em condomínios.
-
-`UI/UX` `Prototipação` `Design de Interfaces`
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/02-SAFETECH-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="SafeTech"/>
-</a>
-
-**SafeTech — Projeto acadêmico**
-
-Projeto desenvolvido no contexto acadêmico, com foco em tecnologia e apresentação de uma solução digital.
-
-`Software` `Projeto Acadêmico` `Desenvolvimento`
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/03-CODE_LAB-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Code Lab"/>
-</a>
-
-**Code Lab — Estudos de programação**
-
-Espaço para exercícios, algoritmos e pequenos projetos criados durante minha evolução na programação.
-
-`JavaScript` `Python` `Lógica de Programação`
+<img src="https://img.shields.io/badge/MAIN_PROJECT-AUDI3_TECH_CENTER-075985?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
-**Nota:** esses cards são modelos para organizar seu portfólio. Troque os links pelos repositórios reais e ajuste as descrições conforme o conteúdo de cada projeto.
+### ◈ Audi3 Tech Center
+
+Uma central de gerenciamento e monitoramento de computadores corporativos, desenvolvida para facilitar o acompanhamento dos equipamentos de uma empresa.
+
+O projeto busca reunir informações técnicas dos computadores em uma plataforma centralizada, permitindo consultar dados e acompanhar atualizações remotamente.
+
+**Principais funcionalidades:**
+
+- Cadastro e identificação dos computadores.
+- Associação dos equipamentos aos funcionários e setores.
+- Coleta de informações de hardware.
+- Monitoramento de memória RAM.
+- Acompanhamento do armazenamento disponível e utilizado.
+- Identificação do sistema operacional e endereço IP.
+- Atualização periódica das informações.
+- Consulta dos equipamentos por meio de um painel web.
+
+**Tecnologias do projeto:**
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `Automação`
+
+<sub>Status: Em desenvolvimento.</sub>
 
 ---
 
-## `05 // CURRENT MISSIONS`
-
-<div align="center">
+## `04 // CURRENT MISSIONS`
 
 ```text
-┌─────────────────────────────────────────────────┐
-│  SAN_THIAGO@DEVELOPER:~$ ./current_missions.sh  │
-└─────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────┐
+│       SANTHIAGO@DEVELOPER:~$ STATUS             │
+└────────────────────────────────────────────────┘
 
-[ RUNNING ]  Aprimorar lógica de programação
-[ RUNNING ]  Praticar JavaScript
-[ RUNNING ]  Estudar Python
-[ RUNNING ]  Desenvolver projetos com HTML e CSS
+[ RUNNING ]  Evoluir na lógica de programação
+[ RUNNING ]  Desenvolver aplicações com Python
+[ RUNNING ]  Aprimorar conhecimentos em JavaScript
+[ RUNNING ]  Estudar bancos de dados e SQL
 [ RUNNING ]  Aprender Git e GitHub
-[ RUNNING ]  Explorar bancos de dados e SQL
+[ RUNNING ]  Construir projetos práticos
 
-[ NEXT UP ]  Criar aplicações web completas
-[ NEXT UP ]  Construir um portfólio profissional
-[ NEXT UP ]  Conquistar uma oportunidade na área tech
+[ NEXT UP ]  Desenvolver sistemas mais completos
+[ NEXT UP ]  Aprimorar conhecimentos em desenvolvimento web
+[ NEXT UP ]  Crescer profissionalmente na área de tecnologia
 
 > Progress is being compiled...
-> Mission status: IN PROGRESS ███████░░░
+> Mission status: IN PROGRESS
 ```
 
-</div>
-
 ---
 
-## `06 // GITHUB ANALYTICS`
+## `05 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9&icon_color=7C3AED&ring_color=22D3EE&include_all_commits=true" alt="GitHub Stats"/>
+<a href="https://github.com/santhiagoagst">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=santhiagoagst&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE&ring_color=38BDF8&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas"/>
+<a href="https://github.com/santhiagoagst">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiagoagst&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most Used Languages"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&background=020617&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=94A3B8" alt="GitHub Contribution Streak"/>
+<br/>
+
+<a href="https://github.com/santhiagoagst">
+<img width="80%" src="https://streak-stats.demolab.com?user=santhiagoagst&theme=transparent&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=94A3B8" alt="GitHub Contribution Streak"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=020617&color=22D3EE&line=7C3AED&point=E0F2FE&area=true&area_color=164E63&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade do GitHub"/>
-</a>
+<br/>
 
-</div>
-
----
-
-## `07 // ACHIEVEMENTS UNLOCKED`
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+<a href="https://github.com/santhiagoagst">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=santhiagoagst&bg_color=020617&color=38BDF8&line=22D3EE&point=E0F2FE&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub Activity Graph"/>
 </a>
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION MATRIX`
+## `06 // CONNECT WITH ME`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação Snake do gráfico de contribuições"/>
-
-</div>
-
----
-
-## `09 // CONNECT TO MY NETWORK`
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
+<a href="https://github.com/santhiagoagst">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -231,29 +166,12 @@ Espaço para exercícios, algoritmos e pequenos projetos criados durante minha e
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:164E63,100:020617&height=120&section=footer" width="100%" alt="Rodapé futurista"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,45:0F3B65,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
 
-<sub>Designed with curiosity, powered by code, driven by purpose.</sub>
+<sub>Designed with curiosity. Powered by code. Driven by purpose.</sub>
 
 <br/>
 
-<sub>© Santhiago Lima · Always learning. Always evolving.</sub>
-
-<img src="https://img.shields.io/badge/END_OF_TRANSMISSION-22D3EE?style=flat-square&labelColor=020617" alt="Fim da transmissão"/>
+<sub>© Santhiago Augusto · Always learning. Always evolving.</sub>
 
 </div>
-
-<!--
-**santhiagoagst/santhiagoagst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
