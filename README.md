@@ -6,7 +6,7 @@
 
 ### Desenvolvedor em formação. Criando soluções na prática.
 
-[![GitHub](https://img.shields.io/badge/GitHub-s Thiago-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiagoagst)
+[![GitHub](https://img.shields.io/badge/GitHub-santhiagoagst-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiagoagst)
 ![Status](https://img.shields.io/badge/Status-Evoluindo-087E9B?style=flat-square)
 
 </div>
@@ -29,23 +29,23 @@ Atualmente, meu foco está em Python, desenvolvimento de sistemas, aplicações 
 
 ---
 
-## Tecnologias e ferramentas
+## Linguagens e ferramentas
 
 <div align="center">
 
-**Linguagens e desenvolvimento**
+**Linguagens**
 
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
 
 <br/><br/>
 
-**Banco de dados**
+**Bancos de dados**
 
 <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 
 <br/><br/>
 
-**Ferramentas**
+**Ferramentas e ambiente de desenvolvimento**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
