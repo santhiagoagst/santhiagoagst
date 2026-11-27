@@ -1,4 +1,4 @@
-# 👨‍💻 Santhiago Augusto | Software Developer
+
 
 <div align="center">
 
