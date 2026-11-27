@@ -1,85 +1,100 @@
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:102A43,100:087E9B&height=190&section=header&text=SANTHIAGO%20AUGUSTO&fontSize=42&fontColor=EAFBFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=11&descAlignY=68" width="100%"/>
 
-<div align="center">
+### Desenvolvedor em formação | Transformando ideias em soluções.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,45:102A43,100:087E9B&height=220&section=header&text=SANTHIAGO%20AUGUSTO&fontSize=43&fontColor=EAFBFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%7C%20AUTOMATION%20%7C%20TECHNOLOGY&descSize=12&descAlignY=63&animation=fadeIn" width="100%" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-santhiagoagst-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhiagoagst)
-[![Status](https://img.shields.io/badge/STATUS-EM%20EVOLUÇÃO-087E9B?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/santhiagoagst)
-
-**Desenvolvedor em formação | Transformando conhecimento em soluções reais.**
+[![GitHub](https://img.shields.io/badge/GitHub-santhiagoagst-0D1117?style=flat-square&logo=github)](https://github.com/santhiagoagst)
+![Status](https://img.shields.io/badge/Status-Evoluindo-087E9B?style=flat-square)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Olá! Sou **Santhiago Augusto**, estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta da tecnologia, desenvolvimento de software e resolução de problemas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 
-Acredito que programar vai muito além de escrever código: é entender problemas, pensar em soluções e transformar ideias em ferramentas que realmente façam a diferença.
+Busco transformar conhecimento em projetos práticos, criando soluções que unem lógica, criatividade e tecnologia.
 
-Tenho buscado desenvolver minhas habilidades por meio de projetos práticos, explorando diferentes áreas da tecnologia e colocando em prática o que aprendo na faculdade.
-
-Atualmente, meus principais interesses estão em desenvolvimento de sistemas, automação, aplicações web, infraestrutura de TI e gerenciamento de hardware.
-
-**Um pouco sobre minha jornada:**
-
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
-- 🐍 Desenvolvimento de aplicações e automações com Python.
-- 🌐 Construção de interfaces e aplicações web.
-- 🗄️ Estudos em bancos de dados, SQL e integração com APIs.
-- ⚙️ Interesse em hardware, infraestrutura e soluções tecnológicas.
-- 🚀 Sempre buscando aprender, experimentar e desenvolver projetos melhores.
-
----
+- 🎓 Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvimento de sistemas e aplicações web.
+- 🐍 Python, JavaScript e TypeScript.
+- 🗄️ Estudos em bancos de dados e SQL.
+- ⚙️ Interesse em automação, hardware e infraestrutura de TI.
+- 🚀 Sempre aprendendo, construindo e evoluindo.
 
 ## 🛠️ Tecnologias e ferramentas
 
-Tecnologias que utilizo e venho explorando durante minha jornada de desenvolvimento.
+<div align="center">
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css"/>
+
+**Frameworks e ferramentas**
+
+<img src="https://skillicons.dev/icons?i=react,vite,flask,git,github,vscode,figma"/>
+
+**Banco de dados**
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+
+</div>
+
+## 🚀 Projetos em destaque
+
+### 💻 Audi3 Tech Center
+<sub>PYTHON · AUTOMAÇÃO · HARDWARE · SQLITE</sub>
+
+Sistema de inventário e gerenciamento de computadores, voltado à coleta, organização e monitoramento de informações técnicas dos equipamentos.
+
+- Identificação de hardware e componentes.
+- Coleta de informações do sistema operacional.
+- Gerenciamento e organização de equipamentos.
+- Automação da coleta de informações.
+
+### 🛡️ SafeTech
+<sub>REACT · TYPESCRIPT · VITE · CSS</sub>
+
+Projeto colaborativo de desenvolvimento web para registro e gerenciamento de ocorrências.
+
+- Desenvolvimento de interfaces com React.
+- Integração com APIs.
+- Construção de formulários e funcionalidades.
+- Organização de componentes e páginas.
+- Versionamento e colaboração com Git.
+
+## 📚 Atualmente estudando
+
+| Área | Foco |
+|:---|:---|
+| Python | Sistemas e automação |
+| JavaScript / TypeScript | Desenvolvimento web |
+| React | Interfaces e componentes |
+| SQL | Bancos de dados |
+| Git / GitHub | Versionamento e colaboração |
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Linguagens de programação
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=santhiagoagst&show_icons=true&hide_border=true&bg_color=080D1A&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE&include_all_commits=true"/>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,typescript" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiagoagst&layout=compact&hide_border=true&bg_color=080D1A&title_color=38BDF8&text_color=C9D1D9&langs_count=6"/>
 
-<br/><br/>
-
-### Frameworks e desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=react,vite,flask" />
-
-<br/><br/>
-
-### Banco de dados
-
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-
-<br/><br/>
-
-### Ferramentas e produtividade
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,windows" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=santhiagoagst&bg_color=080D1A&color=38BDF8&line=087E9B&point=E0F2FE&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+<div align="center">
 
-Projetos desenvolvidos para colocar conhecimentos em prática, explorar novas tecnologias e solucionar problemas reais.
+### Construindo hoje. Evoluindo sempre. 🚀
 
-### 💻 01. Audi3 Tech Center
+**Tecnologia • Criatividade • Aprendizado contínuo**
 
-**Sistema de inventário e gerenciamento de hardware**
+<sub>© Santhiago Augusto | Recife, PE, Brasil</sub>
 
-<sub>PYTHON · AUTOMAÇÃO · HARDWARE · DESENVOLVIMENTO DE SISTEMAS</sub>
-
-Uma solução em desenvolvimento voltada ao gerenciamento e inventário de computadores, com foco na identificação, coleta e organização de informações técnicas dos equipamentos.
-
-**Principais funcionalidades e objetivos:**
-
-- 🔍 Ident
+</div>
